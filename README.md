@@ -1,2 +1,4 @@
-# SMS_Sender
-Creating A Bulk SMS Sender For My WebApp
+# Bulk-SMS-Tutorial 💌
+This is a PHP Implementation of Bulk SMS in Kenya
+
+Edit and add your API Key from mobitechnologies.com
